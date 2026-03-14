@@ -1,7 +1,5 @@
 # JeevanMeds
 
-<iframe src='https://jeevan-meds.vercel.app/'></iframe>
-
 ## Smart Medicine Platform with Expired Medicine Take‑Back System
 
 JeevanMeds is a healthcare platform that combines **online pharmacy
@@ -34,6 +32,10 @@ JeevanMeds solves this problem by implementing a **complete medicine
 lifecycle management system**.
 
 ------------------------------------------------------------------------
+
+# Live Preview
+
+- Website: (LINK)[https://jeevan-meds.vercel.app/]
 
 # Key Features
 
